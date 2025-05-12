@@ -1,0 +1,5 @@
+*.bam
+*.bam.bai
+*.pileup
+gencode.gtf
+colab-biolab/miniconda3.sh
